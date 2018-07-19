@@ -1,0 +1,26 @@
+{
+  "name": "hexo-baidu-url-initiative-push",
+  "version": "1.0.0",
+  "description": "initiative push post urls to baidu search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchenrain/hexo-baidu-url-initiative-push.git"
+  },
+  "keywords": [
+    "hexo",
+    "seo"
+  ],
+  "author": "suchenrain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suchenrain/hexo-baidu-url-initiative-push/issues"
+  },
+  "homepage": "https://github.com/suchenrain/hexo-baidu-url-initiative-push#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
