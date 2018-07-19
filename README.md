@@ -2,8 +2,9 @@
 
 [![npm version](https://img.shields.io/badge/npm-1.1.2-brightgreen.svg)](https://www.npmjs.com/package/hexo-baidu-url-initiative-push)
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/suchenrain/hexo-baidu-url-initiative-push/blob/master/LICENSE)
-Hexo 插件，用于主动推送站点链接到百度搜索引擎，SEO 优化。
 ![passing](https://img.shields.io/badge/build-passing-green.svg)
+
+Hexo 插件，用于主动推送站点链接到百度搜索引擎，SEO 优化。
 
 ## 安装
 
