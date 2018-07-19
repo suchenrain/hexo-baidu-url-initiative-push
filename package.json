@@ -1,6 +1,6 @@
 {
   "name": "hexo-baidu-url-initiative-push",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "initiative push post urls to baidu search engine",
   "main": "index.js",
   "scripts": {
